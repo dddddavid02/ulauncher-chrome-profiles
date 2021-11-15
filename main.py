@@ -56,7 +56,7 @@ class KeywordQueryEventListener(EventListener):
         entries = []
         for folder in profiles:
             entries.append(ExtensionResultItem(
-                icon='images/icon.png',
+                icon='images/icon2.png',
                 name=profiles[folder]['name'],
                 description=profiles[folder]['email'],
                 on_enter=ExtensionCustomAction({

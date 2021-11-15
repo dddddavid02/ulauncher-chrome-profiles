@@ -12,7 +12,7 @@
       "id": "keyword",
       "type": "keyword",
       "name": "Chrome Profile",
-      "description": "Keyword to invoke this extension",
+      "description": "Launch Google Chrome with a chosen profile",
       "default_value": "cp"
     },
     {

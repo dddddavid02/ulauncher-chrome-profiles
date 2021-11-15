@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-![screenshot](screenshot.png)
+![Screenshot](images/screenshot.png)
 
 ## Requirements
 

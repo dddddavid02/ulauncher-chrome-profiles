@@ -6,6 +6,8 @@
 
 ![Screenshot](images/screenshot.png)
 
+<a href="https://icons8.com/">Icons by Icons8</a>
+
 ## Requirements
 
 - Ulauncher

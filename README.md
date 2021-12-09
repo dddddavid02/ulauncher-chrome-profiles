@@ -1,24 +1,22 @@
-# ulauncher-chrome-profiles
+# Chrome Profiles
 
-> [Ulauncher](https://ulauncher.io) extension for launching Google Chrome using a chosen user profile.
+Ulauncher extension to open Google Chrome using a chosen user profile.
 
-## Screenshot
+## Preview
 
 ![Screenshot](images/screenshot.png)
 
-<a href="https://icons8.com/">Icons by Icons8</a>
-
 ## Requirements
 
-- Ulauncher
+- [Ulauncher](https://ulauncher.io)
 - Python 3
 
-## Install
+## Installation
 
-Open ulauncher preferences window -> extensions -> add extension and paste the following url:
+Open Ulauncher preferences window > Extensions > Add extension and paste the following URL:
 
 ```
-https://github.com/floydjohn/ulauncher-chrome-profiles
+https://github.com/dddddavid02/ulauncher-chrome-profiles
 ```
 
 ## Contributing
